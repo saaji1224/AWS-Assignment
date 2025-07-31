@@ -68,6 +68,14 @@ This Terraform configuration provisions a secure AWS VPC with public and private
 ![alt text](image-6.png)
 
 
+## Another way to create the files like
+   * Define the files individually
+     * main.tf
+     * var.tf
+     * out.tf
+     * terraform.tfvars
+
+
 ## References
 
 - [AWS Network Firewall Deployment Models](https://aws.amazon.com/blogs/networking-and-content-delivery/deployment-models-for-awsnetwork-firewall/)
